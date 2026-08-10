@@ -1,8 +1,15 @@
-# ia-ciberseguranca
+# IA para Cibersegurança
 
-Repositório criado para disciplina de IA para Cibersegurança 4º período - Segurança da Informação
-Professor Raphael Crespo - CESAR School
+Repositório da disciplina **IA para Cibersegurança**, 4º período — Segurança da Informação.
 
-Alunos:
-João Victor Garmatz
-João Danilo 
+**Instituição:** CESAR School  
+**Professor:** Raphael Crespo
+
+## Alunos
+
+- João Victor Garmatz
+- João Danilo
+
+## Conteúdo
+
+Notebooks e materiais das aulas da disciplina.
