@@ -1,16 +1,26 @@
-# IA para Cibersegurança
+# 🤖 IA para Cibersegurança
 
-Repositório da disciplina **IA para Cibersegurança**, 4º período — Segurança da Informação.
+Repositório destinado aos notebooks, atividades e materiais desenvolvidos na disciplina de **IA para Cibersegurança**, do 4º período do curso de **Segurança da Informação**.
 
-**Professor:** Raphael Crespo
-**Instituição:** CESAR School  
+**Professor:** Raphael Crespo  
+**Instituição:** CESAR School
 
+---
 
-## Alunos
+## 👥 Alunos
 
 - João Victor Garmatz
 - João Danilo
 
-## Conteúdo
+---
 
-Notebooks e materiais das aulas da disciplina.
+## 📚 Conteúdo
+
+Este repositório contém os notebooks, exercícios, experimentos e materiais desenvolvidos durante as aulas da disciplina.
+
+### Tecnologias utilizadas
+
+- Python
+- Google Colab
+- Machine Learning
+- Inteligência Artificial aplicada à Cibersegurança
