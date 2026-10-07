@@ -2,8 +2,9 @@
 
 Repositório da disciplina **IA para Cibersegurança**, 4º período — Segurança da Informação.
 
-**Instituição:** CESAR School  
 **Professor:** Raphael Crespo
+**Instituição:** CESAR School  
+
 
 ## Alunos
 
