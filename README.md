@@ -25,6 +25,7 @@ Os materiais estão organizados por aula, seguindo a progressão dos fundamentos
 | **4** | Métricas, validação e phishing | Classificador de phishing com Random Forest, matriz de confusão, precisão, recall, F1, ROC-AUC, PR-AUC, validação cruzada e análise do efeito do limiar de decisão sobre os erros. O código carrega a base UCI Phishing Websites, com alternativa sintética em caso de falha no download. [Acessar notebook](Aula%204/aulas4_metricas_validacao_phishing_alunos.ipynb). |
 | **5** | Modelagem de um detector de malware | Uso de features previamente extraídas de executáveis Windows da base UCI VxHeaven/VirusTotal. Comparação entre baseline e Random Forest, divisão em treino, validação e teste, escolha do limiar, análise das famílias de features e exportação opcional para o Splunk. [Acessar notebook](Aula%205/aula5_modelagem_detector_malware_uci_splunk.ipynb). |
 | **6** | Anomalias, UEBA e mineração de processos | Construção de perfis de usuários a partir de logs de eventos, detecção de anomalias com Isolation Forest, LOF e K-Means, priorização de alertas para o SOC e análise de sequências de ações com grafos e escores de raridade. [Acessar notebook](Aula%206/aula6_ueba_anomalias_process_mining_%282%29.ipynb). |
+| **10** | Ataques adversariais em imagens: FGSM e PGD | Aplicação dos ataques FGSM e PGD ao classificador de imagens treinado na Aula 2, comparação de perturbação, efetividade e custo, análise da acurácia sob ataque e tentativa de ataque direcionado. [Acessar notebook](Aula%2010/aula10_ataques_adversariais_fgsm_pgd_%283%29.ipynb). |
 
 ### AV1 — Experimento com o detector de malware
 
@@ -43,7 +44,7 @@ A [avaliação prática AV1](AV1_detector_malware.ipynb) retoma o detector da Au
 1. Selecione o notebook na tabela de aulas e abra-o no Google Colab pela opção **Arquivo → Abrir notebook → GitHub**, informando o endereço deste repositório.
 2. Execute as células na ordem apresentada e siga as orientações de configuração e instalação de dependências de cada notebook.
 3. Nas atividades que utilizam o Google Drive, ajuste a pasta do projeto e autorize a montagem do Drive quando solicitado.
-4. Para a Aula 2, prepare o modelo exportado do Teachable Machine e as imagens de teste. As demais atividades de dados utilizam downloads indicados nos próprios notebooks, que dependem de acesso à internet e da disponibilidade das fontes.
+4. Para as Aulas 2 e 10, prepare o modelo exportado do Teachable Machine e as imagens de teste. As demais atividades de dados utilizam downloads indicados nos próprios notebooks, que dependem de acesso à internet e da disponibilidade das fontes.
 
 Os dados, modelos e arquivos gerados durante as práticas são armazenados no ambiente de execução ou no Google Drive, conforme cada notebook. A Aula 1 gera o `requirements.txt` na pasta do projeto no Drive.
 
